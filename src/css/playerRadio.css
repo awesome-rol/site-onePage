@@ -1,0 +1,25 @@
+.containerPlayerRadio {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  right: 60px;
+  bottom: 100px;
+  width: 250px;
+}
+
+.bgPlayer {
+  background-color: #7a0000;
+  border: #c24c4c solid 1px;
+  border-radius: 5%;
+  height: 220px;
+  position: absolute;
+  transform: rotate(45deg);
+  width: 220px;
+  z-index: 2;
+}
+
+.redesSociais {
+  margin-top: 20px;
+}
+
