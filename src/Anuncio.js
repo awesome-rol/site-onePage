@@ -30,7 +30,7 @@ const Anuncio = () => {
       style={{ transform: `translate(${posicaoSlider}px)` }}
       className="sliderAnuncios"
     >
-      <a href="https://google.com/">
+      <a href="">
         <img
           ref={imagemAnuncio}
           className="imagemAnuncio"
@@ -38,7 +38,7 @@ const Anuncio = () => {
           alt="Anúncio"
         />
       </a>
-      <a href="https://google.com/">
+      <a href="">
         <img
           ref={imagemAnuncio}
           className="imagemAnuncio"
@@ -46,7 +46,7 @@ const Anuncio = () => {
           alt="Anúncio"
         />
       </a>
-      <a href="https://google.com/">
+      <a href="">
         <img
           ref={imagemAnuncio}
           className="imagemAnuncio"
@@ -54,7 +54,7 @@ const Anuncio = () => {
           alt="Anúncio"
         />
       </a>
-      <a href="https://google.com/">
+      <a href="">
         <img
           ref={imagemAnuncio}
           className="imagemAnuncio"
